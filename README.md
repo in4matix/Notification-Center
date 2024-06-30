@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Notification Center
+  Notification Center for Gnome 42 and lower
 </h1>
 
 <p align="center">
