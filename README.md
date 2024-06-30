@@ -49,7 +49,7 @@ A GNOME Shell extension for detaching notification center and customization.
         <h2>GitHub</h2>
       </th>
       <th>
-        <h2>GNOME Shell Extension Website</h2>
+        <h2>GNOME Shell Extension Website</h2> [Not working anymore - Need to install manually]
       </th>
     </tr>
     <tr>
