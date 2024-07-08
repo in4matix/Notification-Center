@@ -48,12 +48,10 @@ A GNOME Shell extension for detaching notification center and customization.
       <th>
         <h2>GitHub</h2>
       </th>
-      <th>
-        <h2>GNOME Shell Extension Website</h2> [Not working anymore - Need to install manually]
       </th>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
         <br>Download/clone this repository and extract <code>.zip</code> file.<br>
         <br>Open <code>Terminal</code> in extracted folder and run<br>
         <ul>
@@ -66,8 +64,6 @@ A GNOME Shell extension for detaching notification center and customization.
         </ul>
         <br>Enable it in <code>GNOME Tweaks</code> or <code>Extensions</code> application.<br>
       </td>
-      <td>
-        <a href="https://extensions.gnome.org/extension/1526/notification-centerselenium-h/">Get this extension from here</a> 
       </td>
     </tr>
   </table>
