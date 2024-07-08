@@ -39,7 +39,7 @@ A GNOME Shell extension for detaching notification center and customization.
 </p>
 
 <h1 align="center">
-  Installations
+  Installation
 </h1>
 
 <div align="center">
