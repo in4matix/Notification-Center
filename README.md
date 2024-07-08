@@ -67,7 +67,7 @@ A GNOME Shell extension for detaching notification center and customization.
       </td>
     </tr>
   </table>
-  <br>Also, please check the <a href="https://github.com/Selenium-H/Notification-Center/tree/experimental">experimental</a> <code>branch</code> of this project for most recently updated version.<br><br>
+  <br>Note: This extension is no longer maintained by the developer. If anyone is interested in developing it further, please feel free to do so.<br><br>
 </div>
 
 <h1 align="center">
